@@ -3,6 +3,6 @@
 
 Bitcoin is one of the oldest and biggest cryptocurrencies being traded as of now, in terms of the volume being traded. It is a digital asset over which central banks or any financial Institutions have no control or regulations. Bitcoin has a market share of more than 55% as compared to other cryptocurrencies. It is very sporadic and this is one of the most important reasons which attracted us to analyze and predict its price. Here, we intend to study the prediction of Bitcoin prices using Machine Learning Techniques and prepare a strategy to maximize gains for investors.
 
-The datasets are available in the [twitter-senti.csv] https://github.com/kiran-lenka/Bitcoin-Price-Predictor/blob/main/twitter-senti.csv and [reddit-senti.csv] https://github.com/kiran-lenka/Bitcoin-Price-Predictor/blob/main/reddit-senti.csv files.
+The datasets are available in the [twitter-senti.csv](https://github.com/kiran-lenka/Bitcoin-Price-Predictor/blob/main/twitter-senti.csv) and [reddit-senti.csv](https://github.com/kiran-lenka/Bitcoin-Price-Predictor/blob/main/reddit-senti.csv) files.
 
-This project is licensed under the [MIT LICENSE] https://github.com/kiran-lenka/Bitcoin-Price-Predictor/blob/main/LICENSE.
+This project is licensed under the [MIT LICENSE](https://github.com/kiran-lenka/Bitcoin-Price-Predictor/blob/main/LICENSE).
